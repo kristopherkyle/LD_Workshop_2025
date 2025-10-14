@@ -6,5 +6,5 @@ Here is the link to the <a href="https://colab.research.google.com/drive/1Oj4WhQ
 
 Here is the link to the <a href="https://www.linguisticanalysistools.org/taaled.html" target="_blank">desktop version of TAALED</a>
 
-Here is the link to the <a href="https://lcr-ads-lab.github.io/TAALED/" target="_blank">Python version of TAALED.</a>
+Here is the link to the <a href="https://lcr-ads-lab.github.io/TAALED/" target="_blank">Python version of TAALED</a>
 
