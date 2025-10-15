@@ -8,3 +8,5 @@ Here is the link to the <a href="https://www.linguisticanalysistools.org/taaled.
 
 Here is the link to the <a href="https://lcr-ads-lab.github.io/TAALED/" target="_blank">Python version of TAALED</a>
 
+Here is the link to the <a href="https://www.lextutor.ca/vp/comp/" target="_blank">Vocab Profiler</a>
+
