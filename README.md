@@ -4,7 +4,7 @@ Code and Files for the 2025 Lexical Diversity Workshop in Hildesheim
 
 Here is the link to the <a href="https://www.linguisticanalysistools.org/taaled.html" target="_blank">desktop version of TAALED</a> (English only; Mac and Windows)
 
-Here is the link to the <a href="https://drive.google.com/file/d/1UfmldZ_vE3bpsmxR6RXMNEOytw_OI-lH/view?usp=sharing" target="_blank">desktop version of TAALED_EnDe</a> (English and German; Mac only)
+Here is the link to the <a href="https://drive.google.com/file/d/1UfmldZ_vE3bpsmxR6RXMNEOytw_OI-lH/view?usp=sharing" target="_blank">desktop version of TAALED_EnDe</a> (English and German; Mac M1+ only)
 
 <a href="https://universaldependencies.org/u/pos/" target="_blank">See here</a> for an explanation of the part of speech (POS) tags.
 
