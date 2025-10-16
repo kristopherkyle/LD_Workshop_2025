@@ -6,6 +6,7 @@ Here is the link to the <a href="https://www.linguisticanalysistools.org/taaled.
 
 Here is the link to the <a href="https://drive.google.com/file/d/1UfmldZ_vE3bpsmxR6RXMNEOytw_OI-lH/view?usp=sharing" target="_blank">desktop version of TAALED_EnDe</a> (English and German; Mac only)
 
+<a href="https://universaldependencies.org/u/pos/" target="_blank">See here</a> for an explanation of the part of speech (POS) tags.
 
 Here is the link to the <a href="https://colab.research.google.com/drive/1Oj4WhQ7WqQOe5puU4MbiqghxLhD_s7f-?usp=sharing" target="_blank">shared Colab Notebook</a>
 
